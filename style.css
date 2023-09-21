@@ -1,0 +1,15 @@
+.card {
+   min-height: 10rem;
+   margin-bottom: 3vh;
+}
+
+#logo-maskapai {
+    width: auto;
+    max-height: 150px;
+    margin: 1vh;
+}
+
+#logo-pesawat-kecil{
+    max-height: 75px;
+    width: auto;
+}
